@@ -10,7 +10,7 @@ Aj!
 Är du okej?
 
 ##
-Min mage gör ont.
+Jag har ont i magen.
 
 ##
 Jag har ont i huvudet.
@@ -28,11 +28,11 @@ Jag är sömnig.
 Jag är törstig.
 
 ##
-Det var synd.
+Det är synd.
 
 ##
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Lina Rask
+* Translation: Lena Åkersten
 * Language: sv

@@ -19,7 +19,7 @@ Jag kan tala tre språk.
 Jag kan sjunga.
 
 ##
-Jag kan passa barn.
+Jag kan se efter barn.
 
 ##
 Jag kan skratta!
@@ -28,5 +28,5 @@ Jag kan skratta!
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Selma Buer Hanstad
-* Translation: Niklas Wahlberg
+* Translation: Lena Åkersten
 * Language: sv

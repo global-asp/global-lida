@@ -25,11 +25,11 @@ Du lyssnar.
 De kör.
 
 ##
-Alla gör något!
+Alla gör någonting!
 
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Frida Sofie Schønsberg
-* Translation: Lina Rask
+* Translation: Lena Åkersten
 * Language: sv

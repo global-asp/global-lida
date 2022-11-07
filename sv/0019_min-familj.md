@@ -1,4 +1,4 @@
-# Min familj.
+# Min familj
 
 ##
 Det här är min familj.
@@ -16,14 +16,14 @@ Min fru heter Mona.
 Jag har två barn.
 
 ##
-Min son är 5 år.
+Min son är fem år gammal.
 
 ##
-Min dotter är bara 2 år.
+Min dotter är bara två år gammal.
 
 ##
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Vilius Aistis Vilimas
-* Translation: Lina Rask
+* Translation: Lena Åkersten
 * Language: sv
