@@ -1,4 +1,4 @@
-# Aufräumen/Putzen
+# Aufräumen
 
 ##
 

@@ -1,4 +1,4 @@
-# Ins Café gehen.
+# Ins Café gehen
 
 ##
 Boran und seine Tochter sind draußen für einen Spaziergang.

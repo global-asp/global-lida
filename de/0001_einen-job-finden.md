@@ -1,4 +1,4 @@
-# Einen Job finden.
+# Einen Job finden
 
 ##
 Alisha braucht einen neuen Job, weil ihre Familie Geld für Essen und Kleidung braucht.

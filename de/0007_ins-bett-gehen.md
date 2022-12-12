@@ -1,4 +1,4 @@
-# Ins Bett gehen.
+# Ins Bett gehen
 
 ##
 

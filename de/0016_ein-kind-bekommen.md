@@ -1,4 +1,4 @@
-# Ein Kind bekommen.
+# Ein Kind bekommen
 
 ##
 

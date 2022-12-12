@@ -1,4 +1,4 @@
-# Ich kann viele Dinge tun.
+# Ich kann viele Dinge tun
 
 ##
 Ich kann kochen.

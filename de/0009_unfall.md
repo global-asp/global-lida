@@ -1,4 +1,4 @@
-# Unfall.
+# Unfall
 
 ##
 Karlos fährt einen Scooter. Er fährt schnell.

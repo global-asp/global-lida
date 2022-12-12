@@ -1,4 +1,4 @@
-# Ins Kino gehen.
+# Ins Kino gehen
 
 ##
 
