@@ -10,7 +10,7 @@ Det är molnigt.
 Det regnar.
 
 ##
-Det blåser.
+Det är blåsigt.
 
 ##
 Det snöar.
@@ -25,5 +25,5 @@ Det är varmt.
 * License: CC BY
 * Text: Espen Stranger-Johannessen
 * Illustration: Tuva Akselsen Sandersen, Josefine Madsen
-* Translation: Niklas Wahlberg
+* Translation: Lena Åkersten
 * Language: sv

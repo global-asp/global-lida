@@ -1,32 +1,32 @@
 # Fråga och svara
 
 ##
-Jag skulle vilja ha den, tack.
+"Jag skulle vilja ha den där, tack."
 
 ##
-Har du en...?
+"Har du...?"
 
 ##
-Är det okej om jag sitter här?
+"Är det okej om jag sitter här?"
 
 ##
-Det är okej.
+"Det går bra."
 
 ##
-Vill du smaka lite?
+"Vill du ha något av det här?"
 
 ##
-Ja, tack!
+"Ja, tack!"
 
 ##
-Kan jag få titta på den där, tack?
+"Kan jag få titta på den där, är du snäll?"
 
 ##
-Här är den.
+"Varsågod."
 
 ##
 * License: CC BY-NC-SA
 * Text: Espen Stranger-Johannessen
 * Illustration: Aakanee
-* Translation: Lina Rask
+* Translation: Lena Åkersten
 * Language: sv
