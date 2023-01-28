@@ -16,20 +16,26 @@
 "Jag förstår inte."
 
 ##
-"Är det här rätt?" "Ja."
+"Är det här rätt?"
+
+"Ja."
 
 ##
-"Är det här rätt?" "Nej."
+"Är det här rätt?"
+
+"Nej."
 
 ##
 "Kan jag hjälpa dig?"
 
 ##
 "Kan du hjälpa mig, snälla?"
+
 "Ja, självklart!"
 
 ##
 "Kan jag få det där, snälla?"
+
 "Ja, självklart!"
 
 ##

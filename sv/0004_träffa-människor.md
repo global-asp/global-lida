@@ -1,49 +1,57 @@
 # Träffa människor
 
 ##
-Hej! Hej!
+"Hej!"
+
+"Hej!"
 
 ##
-Hej då! Hejdå!
+"Hej då!"
+
+"Hejdå!"
 
 ##
-Det här är Kama.
+"Det här är Kama."
 
 ##
-Hej. Jag heter Kama. Trevligt att träffa dig, Kama.
+"Hej. Jag heter Kama."
+
+"Trevligt att träffa dig, Kama."
 
 ##
-Telefonen ringer.
+"Telefonen ringer."
 
 ##
-Hej.
+"Hej."
 
 ##
-Hej, det är Sara.
+"Hej, det är Sara."
 
 ##
-Han lägger på.
+"Han lägger på."
 
 ##
-Välkommen!
+"Välkommen!"
 
 ##
-Kom in.
+"Kom in."
 
 ##
-Jag är ledsen.
+"Jag är ledsen."
 
 ##
-Inga problem.
+"Inga problem."
 
 ##
-Ursäkta mig.
+"Ursäkta mig."
 
 ##
-Ett ögonblick.
+"Ett ögonblick."
 
 ##
-Det här är Ali. Det här är Leila.
+"Det här är Ali."
+
+"Det här är Leila."
 
 ##
 * License: CC BY-NC-SA
