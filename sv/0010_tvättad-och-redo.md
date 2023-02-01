@@ -1,4 +1,4 @@
-# Tvättad och redo.
+# Tvättad och redo
 
 ##
 Han tvättar sina händer.
