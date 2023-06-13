@@ -13,7 +13,7 @@ Er schreibt.
 Sie schläft.
 
 ##
-Er/Sie isst./ Es frisst.
+Es frisst.
 
 ##
 Wir lesen.
