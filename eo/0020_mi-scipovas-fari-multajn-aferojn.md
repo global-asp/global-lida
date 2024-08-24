@@ -29,4 +29,5 @@ Mi scipovas ridi!
 * Text: Espen Stranger-Johannessen
 * Illustration: Selma Buer Hanstad
 * Translation: Espen Stranger-Johannessen
+* Translation: dohliam
 * Language: eo
