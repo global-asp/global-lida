@@ -13,7 +13,7 @@ Tulima, vilken sorts musik gillar du? frågar Carlos.
 Jag gillar västerländsk musik men jag föredrar musik från mitt hemland, Etiopien.
 
 ##
-Jag kommer från Columbia. Jag lyssnar bara på salsa. Det är perfekt att dansa till, säger Carlos.
+Jag kommer från Colombia. Jag lyssnar bara på salsa. Det är perfekt att dansa till, säger Carlos.
 
 ##
 Jag gillar romantiska sånger och musik som gör mig glad, säger Anita.
